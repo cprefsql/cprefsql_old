@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//cprefsql/cp_best.py=utf-8
+encoding//cprefsql/cp_best_partition.py=utf-8
+encoding//cprefsql/cp_comparison.py=utf-8
+encoding//cprefsql/cp_graph.py=utf-8
+encoding//cprefsql/cp_interval.py=utf-8
+encoding//cprefsql/cp_parser.py=utf-8
+encoding//cprefsql/cp_rule.py=utf-8
+encoding//cprefsql/cp_theory.py=utf-8
+encoding//cprefsql/cp_topk.py=utf-8
+encoding//cprefsql/cp_topk_partition.py=utf-8
